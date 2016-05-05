@@ -1,0 +1,28 @@
+name: kg
+favicon: null
+layout_spectrum: 0.14920415496453643
+typography_spectrum: 0.19528114655986428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7000734030734748
+  lightness: 0.3742725800257176
+  saturation: 0.23703938187099993
+  rhythmicContrast: 0.7544037641491741
+purpose: []
