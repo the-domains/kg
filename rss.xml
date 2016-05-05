@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[kg]]></title>
         <description><![CDATA[kg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 02:24:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 02:30:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.facebook.com/futurism/videos/562890593890144/</p>]]></description>
+            <link>https://thegrid.ai/kg/httpswwwfacebookcomfuturismvideos562890593890144/index.html</link>
+            <guid isPermaLink="false">ff13bc96-fc90-405a-bfb4-34cdb8e39125</guid>
+            <pubDate>Thu, 05 May 2016 02:29:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b5a3795-84d7-4e72-8c4f-8d1c5e0778ec.jpg">]]></description>
-            <link>undefinedwhats-new-is-its-all-new/index.html</link>
+            <link>https://thegrid.ai/kg/whats-new-is-its-all-new/index.html</link>
             <guid isPermaLink="false">bf4c2570-85ff-4706-af98-62e289a57469</guid>
             <pubDate>Thu, 05 May 2016 02:24:23 GMT</pubDate>
         </item>
