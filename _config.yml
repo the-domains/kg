@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: kg
 opengraph:
   image: null
   type: null
@@ -20,21 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.2370393818709999
+  saturation: 0.2370394
   brandStrength: 0.6971326
-  lightness: 0.3742725800257176
+  lightness: 0.4318996
   brandColors:
     - '#0A0907'
     - '#FE2E4E'
     - '#6E9C30'
     - '#3C611C'
     - '#B4D0A6'
-  rhythmicContrast: 0.7544037641491741
+  rhythmicContrast: 0.6272401
 typography_spectrum: 0.2580645
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-favicon: null
-name: kg
+analytics:
+  twitter: null
+  google: null
+  facebook: null
