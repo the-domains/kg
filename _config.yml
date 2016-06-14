@@ -1,28 +1,40 @@
-name: kg
-favicon: null
-layout_spectrum: 0.14920415496453643
-typography_spectrum: 0.19528114655986428
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7000734030734748
-  lightness: 0.3742725800257176
-  saturation: 0.23703938187099993
-  rhythmicContrast: 0.7544037641491741
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2370393818709999
+  brandStrength: 0.6971326
+  lightness: 0.3742725800257176
+  brandColors:
+    - '#0A0907'
+    - '#FE2E4E'
+    - '#6E9C30'
+    - '#3C611C'
+    - '#B4D0A6'
+  rhythmicContrast: 0.7544037641491741
+typography_spectrum: 0.2580645
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: kg
