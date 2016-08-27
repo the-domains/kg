@@ -1,3 +1,16 @@
+layout_spectrum: 0.8722769729793072
+typography_spectrum: 0.08753143204376101
+color:
+  saturation: 0.503023681929335
+  brandStrength: 0.3051677611656487
+  lightness: 0.06830133055336773
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  rhythmicContrast: 0.4917579658795148
 favicon: null
 name: kg
 opengraph:
@@ -17,19 +30,6 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 0.2370394
-  brandStrength: 0.6971326
-  lightness: 0.4318996
-  brandColors:
-    - '#0A0907'
-    - '#FE2E4E'
-    - '#6E9C30'
-    - '#3C611C'
-    - '#B4D0A6'
-  rhythmicContrast: 0.6272401
-typography_spectrum: 0.2580645
-layout_spectrum: 1
 cta:
   bucket: null
   version: null
